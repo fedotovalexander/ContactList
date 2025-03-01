@@ -35,7 +35,7 @@
                         </connections>
                     </tableView>
                     <tabBarItem key="tabBarItem" title="Contacts" image="person.crop.circle.fill" catalog="system" id="QMY-pb-GI1"/>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="lDb-ct-J7l"/>
+                    <navigationItem key="navigationItem" title="Personal List" id="lDb-ct-J7l"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WNp-9q-qrQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -137,6 +137,7 @@
                     <toolbarItems/>
                     <navigationItem key="navigationItem" title="Personal List" id="app-HZ-amh"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="5xw-99-SPU">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
